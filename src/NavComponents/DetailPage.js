@@ -118,7 +118,7 @@ const DetailPage = () => {
         {/* <hr/> */}
         <div className="TheLatest">
           <h2>
-            More From Serian
+            More From Siren
             <hr
               style={{
                 width: "190px",
@@ -133,10 +133,11 @@ const DetailPage = () => {
           </h2>
           <div className="Latest_contanier">
             {
-              Detaildata && Detaildata.filter((data) => data.id % 2 === 0 && (data.id % 4 === 0)).map(
+              Detaildata && Detaildata.filter((data) => data.id % 2 === 0 ).map(
                 (item, index) => {
+               
                   if (item.category === Category) {
-                    console.log(item.id)
+                    // console.log(item.id)
                     return (
                       <DetailDesign
                         key={index}
@@ -148,12 +149,19 @@ const DetailPage = () => {
                       />
                     );
                   }
-                }
-              )}
+                  return null;  
+                })
+              }
+              
           </div>
+          
         </div>
+
+        
       </div>
+      
       <Footer />
+      
     </>
   );
 };

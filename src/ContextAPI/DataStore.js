@@ -10,7 +10,7 @@ function DataStore(props) {
       category: "mixer",
       heading: "Vicky Kaushal has 'evolved beautifully' after getting married to Katrina Kaif: Couldn't have asked for...",
       image: "https://www.pinkvilla.com/images/2023-07/1202613865_vicky-katrina-1.jpg",
-      description: "Vicky Kaushal and Katrina Kaif are one of the most adorable couples in Bollywood. After dating secretly for a few years, Vicky and Katrina tied the knot in a dreamy wedding ceremony in Rajasthan in 2021. As their wedding was a hush-hush affair, Vicky and Katrina's royal nuptials were attended only by their families and close friends",
+      description: "Vicky Kaushal and Katrina Kaif are one of the most adorable couples in Bollywood. After dating secretly for a few years, Vicky and Katrina tied the knot in a dreamy wedding ceremony in Rajasthan in 2021. As their wedding was a hush-hush affair, Vicky and Katrina's royal nuptials were attended only by their families and close friends"
     },
     {
       id: '17',
@@ -78,7 +78,7 @@ function DataStore(props) {
       category: "Home",
       heading: "Cadbury has released a retro-inspired Caramilk Slices block",
       image: "https://img.delicious.com.au/BVMd4bqO/w759-h506-cfill/del/2023/08/cadbury-caramilk-slice-193513-1.jpg",
-      description: "New snack alert! The latest in the Cadbury Slices range has dropped and this one is a doozy: the Cadbury Caramilk Slices Caramel SliceInspired by the top-tier bakery classic, the caramel slice, this mashup of Caramilk chocolate, flowing caramel, vanilla cream and chocolate biscuit pieces is ringing the late-night-snack bell and we’re here to answer the c"
+      description: "New snack alert! The latest in the Cadbury Slices range has dropped and this one is a doozy: the Cadbury Caramilk Slices Caramel SliceInspired by the top-tier bakery classic, the caramel slice, this mashup of Caramilk chocolate, flowing caramel, vanilla cream and chocolate biscuit pieces is ringing the late-night-snack bell and were here to answer the c"
     }
     , {
       id: '26',
@@ -99,7 +99,7 @@ function DataStore(props) {
       category: "mixer",
       heading: "Former Fox News Reporter Ordered by Judge to Reveal Anonymous Source",
       image: "https://s.yimg.com/ny/api/res/1.2/w72QXTY8kZSJbo6U47ZK7A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwNDg7aD0xMTUyO2NmPXdlYnA-/https://media.zenfs.com/en/thewrap.com/59cee8345c158b38e68fc9b911303ff3",
-      description: "A former Fox News reporter was ordered by a federal judge to reveal the identity of a confidential source, a highly unusual case of a plaintiff’s right to legal discovery being placed above the First Amendment protections of a journalist."
+      description: "A former Fox News reporter was ordered by a federal judge to reveal the identity of a confidential source, a highly unusual case of a plaintiffs right to legal discovery being placed above the First Amendment protections of a journalist."
     }
     ,
     {
@@ -128,9 +128,9 @@ function DataStore(props) {
     {
       id: '2',
       category: "Bollywood",
-      heading: "Farhan Akhtar and Ritesh Sidhwani’s Mirzapur to be made into a film; Details Inside",
+      heading: "Farhan Akhtar and Ritesh Sidhwanis Mirzapur to be made into a film; Details Inside",
       image: "https://www.pinkvilla.com/images/2023-07/1588310136_farhan-akhtar-and-ritesh-sidhwanis-mirzapur-to-be-made-into-a-film.jpg",
-      description: "After the success of Farhan Akhtar and Ritesh Sidhwani’s Excel Entertainment and Prime Video backed Mirzapur 1 and 2, fans have been eagerly waiting for the third part of the franchise, which will feature Pankaj Tripathi, Ali Fazal and Shweta Tripathi in pivotal roles. The first season was unveiled in November 2018,"
+      description: "After the success of Farhan Akhtar and Ritesh Sidhwanis Excel Entertainment and Prime Video backed Mirzapur 1 and 2, fans have been eagerly waiting for the third part of the franchise, which will feature Pankaj Tripathi, Ali Fazal and Shweta Tripathi in pivotal roles. The first season was unveiled in November 2018,"
     }
     , {
       id: '3',
@@ -168,21 +168,21 @@ function DataStore(props) {
       image: "https://st1.bollywoodlife.com/wp-content/uploads/2023/07/bawal-2.jpg?impolicy=Medium_Widthonly&w=1280&h=900",
       description: "Bawaal is the latest offering by Amazon Prime Video. Starring Varun Dhawan and Janhvi Kapoor, it is a romantic film with a pinch of comedy and much more. It is helmed by Dangal and Chhichhore maker Nitesh Tiwari. It is for the first time that Varun Dhawan and Janhvi Kapoor have been paired together in a film"
     },
-    , {
+     {
       id: '7',
       category: "Bollywood",
       heading: "Kangana Ranaut makes new shocking revelations, attacks 'womaniser superstar' and 'papa ki pari'",
       image: "https://st1.bollywoodlife.com/wp-content/uploads/2023/07/Kangana-Ranaut-Ranbir-Kapoor-Alia-Bhatt-Raha-Kapoor2.png?impolicy=Medium_Widthonly&w=303",
       description: "Kangana Ranaut is on a rant again. She has yet again attacked two of the Bollywood superstars and a papa ki pari. Kangana Ranaut has also attacked film mafia and reached out to cyber crime, read on to know more."
     },
-    , {
+     {
       id: '8',
       category: "Bollywood",
       heading: "Kangana Ranaut slams Karan Johar for wasting Rs 250 crores on Rocky Aur Rani Kii Prem Kahaani; gives THIS advice to Ranveer Singh",
       image: "https://st1.bollywoodlife.com/wp-content/uploads/2023/07/Kangana-Ranaut-Rocky-Aur-Rani-Kii-Prem-Kahaani-Karan-Johar-Ranveer-Singh.png?impolicy=Medium_Widthonly&w=303",
       description: "Kangana Ranaut has taken to her social handle and slammed Karan Johar for making Rocky Aur Rani Kii Prem Kahaani. She also has given a piece of her mind to Ranveer Singh. Check out the Instagram stories of the actress below:"
     },
-    , {
+     {
       id: '9',
       category: "Bollywood",
       heading: "Disha Patani moves on from her breakup with Tiger Shroff, confirms relationship with Aleksander; introduces him as her boyfriend in this viral video",
@@ -259,116 +259,116 @@ function DataStore(props) {
     {
       id: '83',
       category: "Hollywood",
-      heading: "Courtney Anne Mitchell’s Health Issues: Everything To Know About Corey Feldman’s Ex & Her Condition",
+      heading: "Courtney Anne Mitchells Health Issues: Everything To Know About Corey Feldmans Ex & Her Condition",
       image: "https://hollywoodlife.com/2023/08/15/dua-lipa-bikini-top-sheer-shirt-greece-photos/",
       description: "The singer also wore several other swimsuits as she hung out on a boat and walked around beaches in the gorgeous location."
     }
     , {
       id: '35',
       category: "Hollywood",
-      heading: "‘Teen Mom’s Jenelle Evans’ Son Jace, 14, Safe After Being Reported As A Runaway",
+      heading: "‘Teen Moms Jenelle Evans Son Jace, 14, Safe After Being Reported As A Runaway",
       image: "https://hollywoodlife.com/wp-content/uploads/2023/08/jenelle-evans-son-jace-as-runaway-ss-fr.jpg?resize=768%2C432",
-      description: "Jace has been found, and is safely at home with Jenelle and his family, thank you to the Brunswick Co. Sheriff’s Department and to everyone else for their concerns,” Jenelle’s rep confirmed to TMZ in a statement soon after officials confirmed that her son had been located. "
+      description: "Jace has been found, and is safely at home with Jenelle and his family, thank you to the Brunswick Co. Sheriffs Department and to everyone else for their concerns,” Jenelles rep confirmed to TMZ in a statement soon after officials confirmed that her son had been located. "
     }
     , {
       id: '36',
       category: "Hollywood",
       heading: "Nick Jonas Falls Mid-Song While Performing On Jonas Brothers Tour In Boston: Watch",
       image: "https://hollywoodlife.com/wp-content/uploads/2023/08/nick-jonas-falls-mid-fall-while-performing-ss-ftr.jpg?resize=768%2C432",
-      description: "Nick Jonas, 30, slipped on stage and fell backwards, during a show at TD Garden in Boston, MA on Tuesday. The singer was performing on the Jonas Brothers‘ Five Albums One Night tour, alongside his brothers Kevin Jonas and Joe Jonas, "
+      description: "Nick Jonas, 30, slipped on stage and fell backwards, during a show at TD Garden in Boston, MA on Tuesday. The singer was performing on the Jonas Brothers Five Albums One Night tour, alongside his brothers Kevin Jonas and Joe Jonas, "
     }
     , {
       id: '37',
       category: "Hollywood",
-      heading: "Rachel Zegler Cryptically Responds To ‘Snow White’ Movie Backlash: ‘I Hope The World Becomes Kinder’",
+      heading: "Rachel Zegler Cryptically Responds To Snow White Movie Backlash:  Hope The World Becomes Kinder",
       image: "https://hollywoodlife.com/wp-content/uploads/2023/08/rachel-zegler-snow-white-controversy-vertical.jpg?w=300",
-      description: "Rachel Zegler’s past comments about the new ‘Snow White’ live-action movie have divided the internet, and the Golden Globe winner seemingly addressed the controversy in new messages."
+      description: "Rachel Zeglers past comments about the new Snow White live-action movie have divided the internet, and the Golden Globe winner seemingly addressed the controversy in new messages."
     }
     , {
       id: '38',
       category: "Hollywood",
-      heading: "‘Fantastic Four’ Cast: Everything We Know So Far About The Remake",
+      heading: "Fantastic Four Cast: Everything We Know So Far About The Remake",
       image: "https://hollywoodlife.com/wp-content/uploads/2023/08/fantastic-four-vanessa-kirby-joseph-quinn-vertical.jpg?w=300",
-      description: "‘Fantastic Four’ casting rumors have taken over the internet. So, who’s supposedly in the running? Here are all the latest updates about Marvel’s highly-anticipated remake."
+      description: "Fantastic Four casting rumors have taken over the internet. So, whos supposedly in the running? Here are all the latest updates about Marvels highly-anticipated remake."
     }
     , {
       id: '39',
       category: "Hollywood",
-      heading: "Meg Ryan’s Son Jack Quaid Breaks Silence On Johnny Storm & ‘Fantastic Four’ Casting Rumor",
+      heading: "Meg Ryans Son Jack Quaid Breaks Silence On Johnny Storm & Fantastic Four Casting Rumor",
       image: "https://hollywoodlife.com/wp-content/uploads/2023/08/jack-quaid-breaks-silence-ss-vertical.jpg?w=300",
-      description: "Meg Ryan’s son Jack Quaid took to social media to address rumors of a potential role in the next ‘Fantastic Four’!"
+      description: "Meg Ryans son Jack Quaid took to social media to address rumors of a potential role in the next ‘Fantastic Four!"
     }
     , {
       id: '40',
       category: "Hollywood",
-      heading: "‘Harry Potter’ Stars Then & Now: See How Cast Has Grown Through The Years",
+      heading: "Harry Potter Stars Then & Now: See How Cast Has Grown Through The Years",
       image: "https://hollywoodlife.com/wp-content/uploads/2019/07/harry-potter-then-now-2-vertical-1.jpg?w=300",
-      description: "Check out photos of ‘Harry Potter’ stars like Daniel Radcliffe, Emma Watson, and Rupert Grint from the film’s first release to now!"
+      description: "Check out photos of Harry Potter stars like Daniel Radcliffe, Emma Watson, and Rupert Grint from the films first release to now!"
     }
     , {
       id: '41',
       category: "Hollywood",
-      heading: "Chase W. Dillon: 5 Things To Know About The 13-Year-Old Breakout Star Of ‘Haunted Mansion’",
+      heading: "Chase W. Dillon: 5 Things To Know About The 13-Year-Old Breakout Star Of  Haunted Mansion",
       image: "https://hollywoodlife.com/wp-content/uploads/2023/07/Chase-Dillon-haunted-manision-vert.jpg?w=300",
-      description: "Chase W. Dillon steals the show as youngster Travis in Disney’s ‘Haunted Mansion.’ Get to know this rising star."
+      description: "Chase W. Dillon steals the show as youngster Travis in Disneys Haunted Mansion. Get to know this rising star."
     }
     , {
       id: '42',
       category: "Hollywood",
-      heading: "BTS Singer Jimin Plays Ryan Gosling’s Ken Guitar From ‘Barbie’ After Actor Gifted It To Him: Watch",
+      heading: "BTS Singer Jimin Plays Ryan Goslings Ken Guitar From Barbie After Actor Gifted It To Him: Watch",
       image: "https://hollywoodlife.com/wp-content/uploads/2023/07/ryan-gosling-jimin-guitar-barbie-ken-vertical.jpg?w=300",
-      description: "Does the ‘K’ in ‘K-Pop’ stand for ‘Ken?’ A week after Ryan Gosling gave Jimin the guitar from the ‘Barbie’ movie, the BTS member thanked him for the heartfelt gift"
+      description: "Does the K in K-Pop stand for Ken? A week after Ryan Gosling gave Jimin the guitar from the Barbie movie, the BTS member thanked him for the heartfelt gift"
     }
     , {
       id: '43',
       category: "Hollywood",
-      heading: "‘The Exorcist: Believer’ Cast, First Trailer & Everything Else To Know About The Horror Sequel",
+      heading: "The Exorcist: Believer Cast, First Trailer & Everything Else To Know About The Horror Sequel",
       image: "https://hollywoodlife.com/wp-content/uploads/2023/07/The-Exorcist-Believer-cast-vertical.jpg?w=300",
-      description: "It’s been 50 years since ‘The Exorcist’ became one of the most iconic horror films of all time. A new chapter is beginning with ‘The Exorcist: Believer.’ Here’s what you need to know about the upcoming sequel."
+      description: "Its been 50 years since The Exorcist became one of the most iconic horror films of all time. A new chapter is beginning with The Exorcist: Believer. Heres what you need to know about the upcoming sequel."
     }
     , {
       id: '44',
       category: "Hollywood",
-      heading: "Happy Birthday Daniel Radcliffe: Celebrate The ‘Harry Potter’ Star’s 34th Birthday With Photos From His Young Days & On",
+      heading: "Happy Birthday Daniel Radcliffe: Celebrate The Harry Potter Stars 34th Birthday With Photos From His Young Days & On",
       image: "https://hollywoodlife.com/wp-content/uploads/2022/07/daniel-radcliffe-through-the-years-ss-gal-ftr.jpg?w=300",
-      description: "Daniel Radcliffe is 34! Check out photos of the ‘Harry Potter’ star from throughout his career here."
+      description: "Daniel Radcliffe is 34! Check out photos of the Harry Potter star from throughout his career here."
     }
     , {
       id: '45',
       category: "Hollywood",
-      heading: "‘Hairspray’ Cast: Where Are They Now? Updates On Zac Efron, Amanda Bynes & More After 16 Years",
+      heading: "Hairspray Cast: Where Are They Now? Updates On Zac Efron, Amanda Bynes & More After 16 Years",
       image: "https://hollywoodlife.com/wp-content/uploads/2023/07/Hairspray-Cast-Through-The-Years-vert.jpg?w=300",
-      description: "You can’t stop this beat! The 2007 film adaptation of ‘Hairspray’ remains a musical classic. So, where is the cast today? Get updates on all your favorite ‘Hairspray’ stars."
+      description: "You cant stop this beat! The 2007 film adaptation of Hairspray remains a musical classic. So, where is the cast today? Get updates on all your favorite Hairspray stars."
     }
     ,
     {
       id: '46',
       category: "Techno",
-      heading: "Gadget’s $400 price hike for tiny detail",
+      heading: "Gadgets $400 price hike for tiny detail",
       image: "https://content.api.news/v3/images/bin/606f1d8815dff6787eb9eb158ca6bff0?width=150",
-      description: "With the latest MacBook Air upgrade, there’s only a few inches in it and it costs a lot of money, says tech expert Elly Awesome."
+      description: "With the latest MacBook Air upgrade, theres only a few inches in it and it costs a lot of money, says tech expert Elly Awesome."
     }
     ,
     {
       id: '47',
       category: "Techno",
-      heading: "‘Shocking’: Customers tricked by tech giant",
+      heading: "Shocking: Customers tricked by tech giant",
       image: "https://content.api.news/v3/images/bin/828f99243ec3b9175c2ae5264a88935b?width=150",
       description: "A tech company deliberately misled customers about discount prices, a court has found."
     },
     {
       id: '48',
       category: "Techno",
-      heading: "‘Really special’: Apple’s new product wows",
+      heading: "Really special: Apples new product wows",
       image: "https://content.api.news/v3/images/bin/96b0ed0f296a66a271ccefb259908d8c?width=150",
       description: "Apple has released two new products and one of them in particular is “really special”, with some incredible features."
     },
     {
       id: '49',
       category: "Techno",
-      heading: "‘Ridiculous’ features of Apple’s new release",
+      heading: "Ridiculous features of Apples new release",
       image: "https://content.api.news/v3/images/bin/77df017f72cb3efbd94fd13647299332?width=150",
-      description: "Apple’s latest laptop may have a hefty price tag but Elly Awesome was blown away by its performance, display, sound quality and battery life."
+      description: "Apples latest laptop may have a hefty price tag but Elly Awesome was blown away by its performance, display, sound quality and battery life."
     },
     {
       id: '50',
@@ -380,7 +380,7 @@ function DataStore(props) {
     {
       id: '51',
       category: "Techno",
-      heading: "‘Flipping out’: China’s harsh new ban",
+      heading: "Flipping out: Chinas harsh new ban",
       image: "https://content.api.news/v3/images/bin/3f61a6892fe318157a3e78f7fca16577?width=150",
       description: "China has imposed a strict new ban on one of the most popular activities for young people in the country."
     },
@@ -445,7 +445,7 @@ function DataStore(props) {
       category: "Techno",
       heading: "OpenAI introduces team dedicated to stopping rogue AI",
       image: "https://www.artificialintelligence-news.com/wp-content/uploads/sites/9/2023/07/openai-superalignment-agi-artificial-intelligence-ethics-society-superintelligence-impact-dangers-1024x683.jpg",
-      description: "Recently, Geoffrey Hinton – the so-called “Godfather of AI” – expressed his worries about the possibility of superintelligent AI surpassing human capabilities and causing catastrophic consequences for humanity."
+      description: "Recently, Geoffrey Hinton  the so-called “Godfather of AI”  expressed his worries about the possibility of superintelligent AI surpassing human capabilities and causing catastrophic consequences for humanity."
     }
     ,
     {
@@ -467,7 +467,7 @@ function DataStore(props) {
     {
       id: '63',
       category: "Food",
-      heading: "Upgrades to modernise Victoria’s grain growers",
+      heading: "Upgrades to modernise Victorias grain growers",
       image: "https://www.foodmag.com.au/wp-content/uploads/2023/08/shutterstock_1736891798-600x320.jpg",
       description: "The Victorian state government is set to fast-track cereal, oilseed and pulse crop improvements by transforming the Australian Grains Genebank …"
     }
@@ -595,7 +595,7 @@ function DataStore(props) {
     {
       id: '80',
       category: "Fitness",
-      heading: 'Zomato’s Deepinder Goyal loses 15 kilos in 4 years; experts decode weight loss diet',
+      heading: 'Zomatos Deepinder Goyal loses 15 kilos in 4 years; experts decode weight loss diet',
       image: 'https://images.indianexpress.com/2023/08/deepinder-goyal_1200_insta.jpg?resize=450,250',
       description: 'Deepinder Goyal was also able to reduce his cholesterol levels and body fat percentage levels in a span of four years'
     }
@@ -603,7 +603,7 @@ function DataStore(props) {
     {
       id: '81',
       category: "Fitness",
-      heading: 'Kiran Bedi reveals fitness mantra at 74: ‘I have never had samosa, poori, kachori, pakode…’',
+      heading: 'Kiran Bedi reveals fitness mantra at 74: I have never had samosa, poori, kachori, pakode…',
       image: 'https://images.indianexpress.com/2023/08/kiran-bedi_amit-mehra.jpg?resize=450,250',
       description: 'Sharing some advice for those in their 30s and 40s, Dr Bedi said that it is necessary to first accept whatever situation you are in life and then take the decision to either reject it or change it'
     }
@@ -618,7 +618,7 @@ function DataStore(props) {
     {
       id: '72',
       category: "Fitness",
-      heading: 'Masaba Gupta performs Mukha Dhauti Kriya to improve breathing, promote ‘recovery’: know more about the practice',
+      heading: 'Masaba Gupta performs Mukha Dhauti Kriya to improve breathing, promote recovery: know more about the practice',
       image: 'https://images.indianexpress.com/2023/07/masaba-gupta_-2.jpg?resize=450,250',
       description: 'This kriya is great for those suffering from asthma, bronchitis, frequent colds, sinus issues and headaches, said'
     } ,
@@ -635,12 +635,12 @@ function DataStore(props) {
       category: "Techno",
       heading: "How Shortwave tamed my inbox with smart organisation and a dash of AI",
       image: "https://images.indianexpress.com/2023/08/shortwave-email-featured.jpg?resize=450,250",
-      description: "I tried Shortwave, an email app that uses AI to summarise and reply to messages (among other things), and here’s what I think."
+      description: "I tried Shortwave, an email app that uses AI to summarise and reply to messages (among other things), and heres what I think."
     },
     {
       id: '90',
       category: "Techno",
-      heading: "Samsung to launch Galaxy M34 on July 7: Here’s what we know so far",
+      heading: "Samsung to launch Galaxy M34 on July 7: Heres what we know so far",
       image: "https://images.indianexpress.com/2023/06/Galaxy-M34-Amazon.jpg?resize=450,250",
       description: "The Samsung Galaxy M34 will be the first phone in the M series to come with an sAMOLED screen."
     }
@@ -671,14 +671,14 @@ function DataStore(props) {
     {
       id: '102',
       category: "Fitness",
-      heading: "With a throwback picture, trainer reveals how Ranveer Singh managed to look ‘jacked’",
+      heading: "With a throwback picture, trainer reveals how Ranveer Singh managed to look jacked",
       image: "https://images.indianexpress.com/2023/07/ranveer-singh_1200_2016.jpg?resize=450,250",
       description: "Everyone these days is looking for a quick fix. In fact, I can confidently tell you, the faster the results the more likely the method you used will unsustainable in the long-term, shared Lloyd Stevens, fitness trainer and transformation specialis"
     },
     {
       id: '105',
       category: "Fitness",
-      heading: "Virat Kohli’s ‘go-to’ exercise is this type of squats; know more",
+      heading: "Virat Kohlis go-to exercise is this type of squats; know more",
       image: "https://images.indianexpress.com/2023/07/virat-kohli_200_insta.jpg?resize=450,250",
       description: "Bala Krishna Reddy, co-founder, Fittr said that this simple yet potent exercise offers a holistic approach to fitness."
     },
@@ -694,8 +694,7 @@ function DataStore(props) {
   ])
   return (
     <Store.Provider value={[data, setData]}>
-
-      {props.children}
+            {props.children}
     </Store.Provider>
   )
 }
