@@ -44,11 +44,11 @@ const Footer = () => {
              <Link to={"https://www.linkedin.com/in/akanksha-sharma-0808ak"} target="_blank"><div className="social_child">   <FontAwesomeIcon icon={faLinkedin} /></div></Link>
         </div>
         </div>
-        <div className="CopyRightContainer">
+       
+      </div>
+      <div className="CopyRightContainer">
         <h3>All CopyRight @ 2023 reserved Akanksha With ❤️ </h3>
       </div>
-      </div>
-     
     </footer>
   );
 };
