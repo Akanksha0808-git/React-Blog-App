@@ -4,7 +4,7 @@ footer{
     background-color: #000;
     background-repeat: no-repeat;
  
-    padding: 20px;
+    /* padding: 20px; */
  
 }
 h3{
@@ -63,7 +63,8 @@ h3{
     flex-direction: column;
     justify-content: flex-start;
     align-items: center;
-    color: #000;
+    /* color: #000; */
+    color: #fff;
     background-color: black;
 }
 h3.Quick{
@@ -81,6 +82,7 @@ h3.contact{
 @media screen and (max-width: 562px){
     .footer{
         padding: 0px;
+        /* width: 100%; */
     }
     .footimg{
         border-radius: 50%;
@@ -95,6 +97,10 @@ h3.contact{
     h3.contact{
         color: #fff;
         text-decoration: underline; 
+    }
+    .CopyRightContainer{
+        margin-left: 20px;
+        /* font-size: 4px; */
     }
    
 }
