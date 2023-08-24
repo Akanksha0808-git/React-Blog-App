@@ -4,6 +4,8 @@ footer{
     background-color: #000;
     background-repeat: no-repeat;
     width: 100%;
+    
+
    
  
 }
@@ -38,8 +40,11 @@ h3{
 
     color: rgb(255, 255, 255);
     font-size: 25px;
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Playfair Display', serif; 
     transform: rotate(270deg);
+}
+#Head4{
+    font-family: 'Playfair Display', serif; 
 }
 
 .Footer_Pages a{
