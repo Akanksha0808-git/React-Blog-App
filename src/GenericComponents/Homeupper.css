@@ -34,15 +34,15 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    flex: auto;
+    /* flex: auto; */
 }
 
 .item img{
     border-radius: 10px;
 }
 .burgir{
-    margin-left: -60px;
-    width: 140%;
+    /* margin-right: 60px; */
+    width: 444px;
 }
 .title{
     position: absolute;
@@ -70,6 +70,7 @@
 
     }
     .contanier{
+        justify-content: center;
         width: 100%;
     }
     .contanier-right{
@@ -81,18 +82,7 @@
     .item img{
         width: 90vw;
     }
-    .burgir{
-        height: 250px;
-
-        margin-left:1px;
-    }
     .barbie{
         height: 250px;
-    margin-left: 22px;  
-    }
-    .telecom{
-        height: 250px;
-
-        margin-left: 1px;
     }
  }

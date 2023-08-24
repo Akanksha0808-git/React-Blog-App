@@ -5,14 +5,16 @@ const Homeupper = () => {
   return (
     <>
     <div className="main-Container">
-        <div className="contanier">
-        <Link to={"/Hollywood"} >  
+        <div className="item container">
+         <Link to={"/Hollywood"} >  
             <div className="title">
             <h3>Title of Vertical Gallery</h3>
             <p>trvel/August 7 2023</p>
             </div>
+            <div>
             <img className="barbie" src="https://content.api.news/v3/images/bin/3cf9bf4f8184eec397559f00f0a2c572?width=650" alt="not Found" height={"515px"} width={"100%"} />
-        </Link>
+            </div>
+         </Link>
         </div>
         
         <div className="contanier-right">
