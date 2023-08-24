@@ -37,7 +37,7 @@ const Footer = () => {
           </ul>
         </div>
         <div className="FooterContact">
-            <h3 className="contact"> Contact US </h3>
+            <h3 className="contact"> Contact Us </h3>
             <Link to={"https://www.facebook.com"} target="_blank"><div className="social_child">  <FontAwesomeIcon icon={faFacebook} /></div></Link>
              <Link to={"https://www.instagram.com/akanksharma111/"} target="_blank" ><div className="social_child">  <FontAwesomeIcon icon={faInstagram} /></div></Link>
              <Link to={"https://github.com/Akanksha0808-git"} target="_blank"><div className="social_child">  <FontAwesomeIcon icon={faGithub} /></div></Link>
