@@ -44,7 +44,7 @@ h3{
 
 .Footer_Pages a{
     text-align: start;
-    /* color: #000; */
+ 
     font-size: 1rem;
     font-weight: 500;
 }
@@ -52,12 +52,12 @@ h3{
     text-transform: capitalize;
     font-size: 1.3rem;
     text-align: start;
-    /* color: #000; */
+
     font-weight: 700;
 }
 
 .CopyRightContainer{
-    /* margin-top: 40px; */
+   
     padding-top: 40px;
     display: flex;
     flex-direction: column;
